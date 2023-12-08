@@ -95,13 +95,9 @@ comments:
     category: General
     category_id: DIC_kwDOKyIans4Cblzo
     mapping: pathname
-    strict: 0
-    emit-metadata: 0
     input_position: bottom
     lang: ko
     reactions_enabled: 1
-    theme: preferred_color_scheme
-    crossorigin: anonymous
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
