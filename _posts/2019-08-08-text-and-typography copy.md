@@ -1,7 +1,7 @@
 ---
-title: Text and Typography
+title: 딥 러닝의 가장 기본적인 시퀀스 모델 RNN (Recurrent Neural Network)
 author: cotes
-date: 2019-08-08 11:33:00 +0800
+date: 2024-01-02 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
