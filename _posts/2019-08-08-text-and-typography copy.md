@@ -3,7 +3,8 @@ title: 딥 러닝의 기본 시퀀스 모델 RNN (Recurrent Neural Network)
 author: cotes
 date: 2024-01-02 11:33:00 +0800
 categories: [Blogging, Demo]
-tags: [typography]
+tags: [패스트캠퍼스, UpstageAILab, Upstage, 부트캠프, AI, 데이터사이언스, 무료교육, 국비지원]
+
 pin: true
 math: true
 mermaid: true
