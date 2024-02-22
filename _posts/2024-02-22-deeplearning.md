@@ -1,7 +1,7 @@
 ---
 title: 01. 딥러닝 개론 - 인공지능, 머신러닝, 딥러닝
 author: guno
-date: 2024-02-22 16:00:00 +0800
+date: 2024-02-22 00:00:00 +0800
 categories: [Computer Vision]
 tags: [딥러닝 기초]
 pin: true
