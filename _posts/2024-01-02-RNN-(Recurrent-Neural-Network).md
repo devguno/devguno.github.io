@@ -5,7 +5,7 @@ date: 2024-01-02 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [패스트캠퍼스, UpstageAILab, Upstage, 부트캠프, AI, 데이터사이언스, 무료교육, 국비지원]
 
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
