@@ -11,11 +11,11 @@ img_path:
 
 ### 필요한 소프트웨어의 다운로드
 
-1. sshfs-win 설치  [Install sshfs-win]
-(https://github.com/winfsp/sshfs-win/releases/tag/v3.5.20357)
+1. sshfs-win 설치  
+[Install sshfs-win](https://github.com/winfsp/sshfs-win/releases/tag/v3.5.20357)
 
-2. WinFsp 설치  [(]Install WinFsp]
-(https://github.com/winfsp/winfsp/releases/tag/v2.0)
+1. WinFsp 설치  
+[Install WinFsp](https://github.com/winfsp/winfsp/releases/tag/v2.0)
 
 두가지 소프트웨어가 설치되면, 윈도우의 터미널을 엽니다.
 
